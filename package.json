@@ -1,0 +1,14 @@
+{
+  "name": "YOSHI-IKUZO",
+  "version": "0.0.1",
+  "author": "iyuuya <i.yuuya@gmail.com>",
+  "description": "YOSHI-IKUZO",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-slack": "^4.4.0"
+  },
+  "engines": {
+    "node": "8.6.0",
+    "npm": "5.6.0"
+  }
+}
